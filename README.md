@@ -83,7 +83,7 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser.
 ## 🙏 Credits
 - [Streaming Availability API (RapidAPI)](https://rapidapi.com/movie-of-the-night-movie-of-the-night-default/api/streaming-availability)
 - [React](https://react.dev/), [Vite](https://vitejs.dev/)
-- UI/UX: [Your Name or Team]
+- UI/UX: @QuentinHelion
 
 ## 📝 License
 MIT
