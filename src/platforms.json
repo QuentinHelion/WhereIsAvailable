@@ -1,0 +1,7 @@
+[
+  { "id": "netflix", "name": "Netflix", "icon": "🎬" },
+  { "id": "prime", "name": "Prime Video", "icon": "🛒" },
+  { "id": "disney", "name": "Disney+", "icon": "🧞" },
+  { "id": "apple", "name": "Apple TV+", "icon": "🍏" },
+  { "id": "hbo", "name": "Max (HBO)", "icon": "🎭" }
+] 
