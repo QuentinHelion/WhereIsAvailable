@@ -138,7 +138,8 @@ function App() {
 
   return (
     <div className="App" style={{ maxWidth: 500, margin: '0 auto', padding: 24, fontFamily: 'system-ui, sans-serif', background: '#f6f8fa', minHeight: '100vh' }}>
-      <h1 style={{ textAlign: 'center', color: '#2d3748', marginBottom: 32 }}>🌍 Where is it available?</h1>
+      <img src="/logo.png" alt="WhereIsAvailable logo" style={{ display: 'block', margin: '0 auto 0px auto', width: 250, height: 250, objectFit: 'contain' }} />
+      <h1 style={{ textAlign: 'center', color: '#2d3748', marginBottom: 32 , marginTop: 10}}>Where is it available?</h1>
       <form onSubmit={handleSubmit} style={{ background: '#fff', borderRadius: 12, boxShadow: '0 2px 12px #0001', padding: 24, marginBottom: 32, display: 'flex', flexDirection: 'column', gap: 18 }}>
         <div style={{ display: 'flex', flexWrap: 'wrap', gap: 16, marginBottom: 8 }}>
           {platformsList.map(p => (
